@@ -3,7 +3,7 @@
 """
 Created on Tue Jun 13 21:28:26 2023
 
-@author: jaime
+@author: 
 """
 
 import threading 
